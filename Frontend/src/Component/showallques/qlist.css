@@ -1,0 +1,48 @@
+
+#headtitleq
+{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:  linear-gradient( #67b26f,
+    #4ca2cd );
+    margin-top: 28px;
+}
+.blog-preview {
+    padding: 10px 16px;
+    margin: 20px 0;
+    border-bottom: 1px solid #fafafa;
+  }
+  .blog-preview:hover {
+    box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+    background-color:rgb(222, 192, 131) 
+ }
+ 
+ .blog-preview h1 {
+  font-size: 23px ;
+  font-family: 'Times New Roman', Times, serif;
+  color:red;
+  background-color: rgb(246, 255, 127);
+  margin-bottom: 10px;
+}
+  .blog-preview h2 {
+    font-size: 20px;
+    color: #3afb0a;
+    margin-bottom: 8px;
+  }
+  .blog-preview h3 {
+    font-size: 10px;
+    color:rgb(0, 255, 94);
+    margin-bottom: 8px;
+  }
+  .blog-preview h4 {
+    font-size: 10px;
+    color:rgba(236, 30, 7, 0.351);
+    margin-bottom: 8px;
+  }
+  .blog-preview p 
+  {
+    margin-top: 5px;
+    line-height: 1.6;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }

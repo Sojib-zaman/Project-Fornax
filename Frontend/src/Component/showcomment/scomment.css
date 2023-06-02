@@ -1,0 +1,29 @@
+.comment-container{
+    display: grid;
+    
+    margin: 15px;
+    
+    height: 200px;
+    
+}
+
+.comment-header{
+    border: 1px solid black;
+    margin: 10px;
+}
+#tot-com
+{
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+}
+.comment-list
+{
+
+  display: inline;
+  font-weight: lighter;
+  font-size: 16px;
+  height: 30px;
+
+  font-family: Monospace;
+  padding: 4px;;
+}

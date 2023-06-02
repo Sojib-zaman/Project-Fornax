@@ -1,0 +1,42 @@
+#bloglist_2
+{
+    background-color: white;
+   
+
+}
+#bloglist-preview
+{
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-bottom: 29px;
+    padding-top: 116px;
+}
+#title2
+{
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 40px;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#info2
+{
+    padding-bottom: 5px;
+    margin-bottom: -150px;
+}
+#otherInfo
+{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#content
+{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    margin-top: 3px;
+    line-height: 1.6;
+}

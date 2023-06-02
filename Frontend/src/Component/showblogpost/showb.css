@@ -1,0 +1,90 @@
+.profile-container{
+  display: none;
+  
+  margin: 15px;
+
+  
+
+  
+}
+#title
+{
+  background-color: wheat;
+ 
+}
+#container{
+background: transparent;
+background-color: rgb(249, 249, 250);
+border-radius: 5px;
+border: none;
+
+
+
+}
+#left{
+  border: 0;
+  background-color: white;
+  border: none;
+  
+}
+#right{
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 70px;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.301);
+  
+}
+
+#header{
+border: none;
+}
+
+#profile{
+width:99.7%;
+}
+
+
+.profile-info{
+  display: grid;
+  justify-content: center;
+  text-align: justify;
+  border: 2px solid black;
+}
+
+#bloglist2 {
+width: 100%;
+border: none;
+background-color:white;
+}
+
+#blogpreview{
+  border-bottom: 1px solid #1a0202;
+  text-align: center;
+  
+  
+}
+#additionalbutton
+{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+#blogpreview:hover {
+box-shadow: 1px 3px 5px rgba(97, 6, 6, 0.1);
+background-color:rgb(255, 255, 255) ;
+}
+
+#content{
+padding-top: 170px;margin: 20px;
+}
+
+#headtitle
+{
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: greenyellow;
+  margin-top: 28px;
+}
+
+

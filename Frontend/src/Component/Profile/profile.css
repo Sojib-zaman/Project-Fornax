@@ -1,0 +1,242 @@
+body {
+    background-color: #f9f9fa
+}
+
+#page-content{
+    padding-top: 40px;
+}
+.danger
+{
+    background-color: red;
+}
+
+#profilepicture{
+   
+    align-items: center;
+    border-radius: 50%;
+    display: flex;
+    align-content: center;
+    margin-left: 556px;
+    height: 350px;
+    width: 350px; align-self: center;
+
+    
+
+
+
+
+}
+@keyframes example {
+    from {color:#0d0941}
+    to {color: red;}
+  }
+#name{
+    text-align: center;
+    font-size: xx-large;
+    color: #0d0941;
+    text-align: center;
+    font-family:'Raleway';
+    animation-name: example;
+  animation-duration: 4s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
+
+#student{
+    text-align: center;
+}
+
+#info{
+    font-size: x-large;
+}
+
+#mail{
+    font-size: medium;
+    color:#0d0941;
+}
+
+#country{
+    font-size: medium;
+    color:#2d24ac;
+    text-transform: capitalize;
+}
+
+
+.user-card-full {
+    overflow: hidden;
+}
+
+.card {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 20px 0 rgba(69,90,100,0.08);
+    box-shadow: 0 1px 20px 0 rgba(69,90,100,0.08);
+    border: none;
+    margin-bottom: 30px;
+}
+
+.m-r-0 {
+    margin-right: 0px;
+}
+
+.m-l-0 {
+    margin-left: 0px;
+}
+
+.user-card-full .user-profile {
+    border-radius: 5px 0 0 5px;
+    align-items: center;
+}
+
+.bg-c-lite-green {
+        background: -webkit-gradient(linear, left top, right top, from(#6d63f2), to(#5a64ee));
+    background: linear-gradient(to right, #bfbcca, #d0cedd);
+}
+
+.user-profile {
+    padding: 20px 0;
+}
+
+.card-block {
+    padding: 1.25rem;
+}
+
+.m-b-25 {
+    margin-bottom: 25px;
+}
+
+.img {
+    height: 50px;
+}
+
+.img-radius {
+    border-radius: 5px;
+}
+
+
+ 
+h6 {
+    font-size: 20px;
+}
+
+.card .card-block p {
+    line-height: 25px;
+}
+
+@media only screen and (min-width: 1400px){
+p {
+    font-size: 38px;
+}
+}
+
+.card-block {
+    padding: 1.25rem;
+}
+
+.b-b-default {
+    border-bottom: 1px solid #b13737;
+}
+
+.m-b-20 {
+    margin-bottom: 20px;
+}
+
+.p-b-5 {
+    padding-bottom: 5px !important;
+}
+
+.card .card-block p {
+    line-height: 25px;
+}
+
+.m-b-10 {
+    margin-bottom: 10px;
+}
+
+.text-muted {
+    color: #2b7bca !important;
+}
+
+.b-b-default {
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.f-w-600 {
+    font-size: 20px;
+    font-weight: 800;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.m-b-20 {
+    margin-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+.m-t-40 {
+    margin-top: 20px;
+}
+
+.p-b-5 {
+    padding-bottom: 5px !important;
+}
+
+.m-b-10 {
+    margin-bottom: 10px;
+}
+
+.m-t-40 {
+    margin-top: 20px;
+}
+
+.user-card-full .social-link li {
+    display: inline-block;
+}
+
+.user-card-full .social-link li a {
+    font-size: 20px;
+    margin: 0 10px 0 0;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+.profile-picture
+{
+    border: 2px solid brown;
+    margin: 3px;
+}
+.show_blog
+{
+    background-color: #6d63f2;
+}
+#buttonUpdate{
+    background-color:rgb(77, 211, 29);
+    color: rgb(215, 21, 21);
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 25px;
+    width: 40%;
+    margin: 15px;
+    height: 45px;
+}
+#buttonDelete{
+    background-color:rgb(255, 17, 0);
+    color: rgb(21, 215, 102);
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 25px;
+    width: 40%;
+    margin: 15px;
+    height: 45px;
+}
+.showmything
+{
+    background-color: rgb(227, 220, 25);
+    color: #b13737;
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 5px;
+    width: 40%;
+    margin: 15px;
+    height: 45px;
+
+}

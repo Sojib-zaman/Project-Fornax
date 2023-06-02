@@ -1,0 +1,41 @@
+.problem-container{
+    display: inline-flex;
+    
+    min-height: 650px;
+}
+.filterBtn{
+    margin: 5px;
+    width: 50%;
+    background-color: #F57359;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 30px;
+    justify-self: start;
+    border: 0;
+
+}
+.filterBtn:hover{
+    background-color: #ce634e;
+}
+.problem-filter{
+    border-right: 1px solid black;
+}
+.problem-select{
+    display: flex;
+    flex-direction: column;
+    margin: 10%;
+    margin-top: 10px;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.filter-field:focus{
+    outline: none;
+}
+.radio-filter{
+    display: grid;
+    color: white;
+    justify-content: start;
+}

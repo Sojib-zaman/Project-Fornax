@@ -1,0 +1,94 @@
+.addPost-container{
+    display: grid;
+    grid-template-columns: 20% auto 20%;
+    border: 3px solid black;
+    
+}
+.addPost-form{
+    border: 1px solid black;
+    margin: 20px;
+    
+    
+    
+}
+#otherQuesInfo
+{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 2;
+    font-size: bold;
+}
+#ques_content
+{
+padding-top: 2px;
+margin-top: -102px;font-family: 'Tahoma ';
+font-size: 30px;
+margin-left: 30px;
+background-image: linear-gradient( #67b26f,
+#4ca2cd );
+}
+.top-header
+{
+margin-top: 64px;
+text-align: center;
+font-size: 30px;
+color:  linear-gradient( #67b26f,
+#4ca2cd );;
+}
+.form{
+    border: 3px solid black;
+    display: inline-block;
+    padding: 20px;
+    border: 0;
+
+}
+.post-head{
+    text-align: left;
+    margin-left: 5%;
+}
+label{
+    text-align: left;
+    margin-left: 10px;
+}
+
+.addPost-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 0;
+}
+
+#title{
+    margin: 10px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#area{
+    margin: 10px;
+    padding: 10px;
+}
+#img{
+    margin: 10px;
+    
+}
+.createpostBtn{
+    background-color: rgb(0, 234, 255);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    font-weight: bold;
+   
+    border-radius: 33px;
+    width: 18%;
+    
+    height: 49px;
+}
+.addPost-form{
+    
+    margin: 20px;
+    
+    
+}
+

@@ -1,0 +1,65 @@
+.form-container{
+    display: grid;
+    grid-template-columns: 50% auto;
+    margin:10% 22% 10% 22% ;
+    border: 1px solid black;
+}
+.form{
+    
+    display: inline-block;
+    border: 1px solid black;
+    padding: 40px;
+}
+body {
+    text-align: center;
+    
+}
+.fullNameContainer{
+    display: grid;
+    grid-template-columns: 50% auto;
+}
+.passwordContainer{
+    display: grid;
+    grid-template-columns: 50% auto;
+}
+.input-field{
+    border: 0;
+    border-bottom: 2px solid gray;
+    color: black;
+    display: block;
+    padding: 10px;
+    width: 85%;
+    margin: 5px;
+    font-size: 15px;
+}
+.input-field:focus{
+    outline: none;
+}
+.createBtn{
+    background-color:#27186b;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    width: 60%;
+    margin: 15px;
+    height: 45px;
+}
+.createBtn:hover{
+    background-color: #4620f1;
+}
+.form-design{
+    background-color: #27186b;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.stateChangebtn{
+    background-color: white;
+    border: 0;
+    color: #19103F;
+    text-decoration: underline;
+}
+

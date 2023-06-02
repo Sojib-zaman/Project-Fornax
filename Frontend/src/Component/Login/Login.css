@@ -1,0 +1,45 @@
+.form{
+    display: inline-block;
+    
+}
+.form-login{
+    display: inline-block;
+    margin-top: 35%;
+}
+.login-input-field{
+    border: 0px;
+    border-radius: 5px;
+    color: black;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    font-size: 15px;
+}
+.login-input-field:focus{
+    border: 1px solid black;
+    outline: none;
+}
+
+.enterBtn{
+    background-color:rgb(50, 65, 50);
+    color: whitesmoke;
+    padding: 5px;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    width: 80%;
+    margin-bottom: 5px;
+    border: 0;
+}
+.enterBtn:hover{
+    background-color: #988dc6;
+}
+.stateChangebtn{
+    background-color: white;
+    border: 0;
+    color: #c8c0eb;
+    text-decoration: underline;
+}

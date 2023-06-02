@@ -1,0 +1,111 @@
+.addPost-container{
+    display: grid;
+    grid-template-columns: 20% auto 20%;
+    border: 2px solid black;
+    text-align: left;
+    overflow: hidden;
+    margin-bottom: 8 px;
+    background-color: rgb(225, 224, 240);
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    
+}
+.addPost-form{
+    border: 0px solid black;
+    margin: 20px;
+    padding-top: 30px;   
+    
+}
+
+#form{
+    display: grid;
+    grid-template-columns: 90% ;
+    align-items: left;
+    text-align: left;
+}
+
+.form{
+    border: 3px solid black;
+    display: inline-block;
+    padding: 20px;
+    border: 0;
+    padding-top: 30px;
+    
+
+}
+.post-head{
+    text-align: left;
+    margin-left: 5%;
+}
+
+#header{
+    font-size: x-large;
+    font-weight: 800;
+}
+
+#header2{
+    font-size: larger;
+    font-weight: 600;
+}
+
+label{
+    text-align: left;
+    margin-left: 10px;
+}
+
+.addPost-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 0;
+}
+
+#title{
+    margin: 10px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+#area{
+    margin: 10px;
+    padding: 10px;
+}
+#img{
+    margin: 10px;
+    
+}
+#button{
+    background-color:rgb(45, 14, 155);
+    color: rgb(231, 240, 241);
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    width: 40%;
+    margin: 15px;
+    height: 45px;
+}
+
+#button2{
+    background-color: rgb(38, 155, 14);
+    color: rgb(231, 240, 241);
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 15px;
+    width: 50%;
+    margin: 200px;
+      margin-top: 200px;
+    height: 45px;
+    align-items: center;
+    margin-top: -110px;
+    
+}
+
+.addPost-form{
+    
+    margin: 20px;
+    
+    
+}

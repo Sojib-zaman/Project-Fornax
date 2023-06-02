@@ -1,0 +1,26 @@
+.createpostBtnr{
+    background-color: rgba(0, 255, 52, 0.88);
+color: black;
+font-family: initial;
+display: inline-block;
+font-weight: bolder;
+border-radius: 33px;
+width: 15%;
+height: 49px;
+padding-right: 10px;
+margin: 20px;
+border: 2px dotted black;
+}
+.createpostBtns {
+    background-color: rgb(0, 234, 255);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline;
+    font-weight: bold;
+    border-radius: 33px;
+    width: 15%;
+    height: 49px;
+    padding-right: 10px;
+    margin: 20px;
+    border: 2px dotted black;
+  }
